@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 - 🚀 Currently, I am constantly learning, improving my skills, learning new technologies of a Frontend Developer.
 
-- 🌱 I’m currently learning **NextJS, NodeJS.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 📫 How to reach me **manhcan03@gmail.com**
 
@@ -29,6 +29,18 @@
 <!-- Languages -->
 <h3 align="left">Languages:</h3>
 <p align="left">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/java"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="60"
+      height="60"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -113,6 +125,14 @@
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <p align="left">
+  <a href="https://www.java.com/en/download/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"
+      alt="spring-boot"
+      width="60"
+      height="60"
+    />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
